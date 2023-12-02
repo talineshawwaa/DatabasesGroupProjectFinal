@@ -56,7 +56,7 @@ python manage.py migrate
 
 ## Web Scraping
 
-To retrieve sufficient, relevant and updated data, we opted with the site StockX.com. It provides a variety of sneakers and complete information pertaining to each. To complete the webscraping, we used BeautifulSoup.
+To retrieve sufficient, relevant and updated data, we opted with the site Nike.es. It provides a variety of sneakers and complete information pertaining to each. To complete the webscraping, we used BeautifulSoup.
 
 ## Acknowledgement & Sources
 [StockX](https://stockx.com) provided a reliable data source for our web scraping component
