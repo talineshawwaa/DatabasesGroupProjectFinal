@@ -2,8 +2,11 @@
 
 # Group Members
 Celine Alzou'bi
+
 Taline Shawwa
+
 Diana Rubaga
+
 Gloria Paraschivoiu
 
 ## 💡 Aim of our Project SNEAKERS DATABASE
