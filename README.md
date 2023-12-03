@@ -57,6 +57,7 @@ pip install flask-cors
 
 
 ## How to run the code
+When running the code, make sure you have all the python packages installed and ready before running, the packages are all mentioned above in the "Python Packages to Install" section. It is also important to make sure that you are running the code on python3! Changing the file path is also cruical, to the name of the desktop you are using with your specified username and password. Once all is done, a JSON file should be correctly produced with all the sneakers. 
 
 
 
