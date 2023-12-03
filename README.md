@@ -6,7 +6,7 @@ In this project, we will be creating a Django web application that interacts wit
 ## Database Components:
 
 - Model name
-- Shoe size
+- Shoe size 
 - Style
 - Color
 - Price (constant, in €)
