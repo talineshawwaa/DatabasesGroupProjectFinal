@@ -58,6 +58,8 @@ pip install flask-cors
 
 ## How to run the code
 
+
+
 ## Migration & Dependencies
 
 python manage.py migrate
@@ -73,4 +75,9 @@ To retrieve sufficient, relevant and updated data, we opted with the site Nike.e
 
 [Selenium](https://selenium-python.readthedocs.io/) used for dynamic data, such as sneaker sizes
 
+## Potential Final Result
+
+After completing the previous steps, you are able to see your result within Compass. This is our result below!
+
+![Image 3-12-23 at 19 30](https://github.com/talineshawwaa/DatabasesGroupProjectFinal/assets/132683425/186a4b26-e90f-44b0-b9aa-fa921436574d)
 
