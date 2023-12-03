@@ -1,9 +1,9 @@
 # DatabasesGroupProjectFinal -- Sneakers
 
-## Aim of our Project SNEAKERS DATABASE
+💡 ## Aim of our Project SNEAKERS DATABASE
 In this project, we will be creating a Django web application that interacts with both MySQL and MongoDB databases. Our project involves setting up Django models, integrating with MySQL to retrieve relational data, connecting to MongoDB for NoSQL data, and implementing a web scraping component to populate our database with external data. Our database will consist of a multitude of sneakers, of various attributes (colour, model, prices, etc...), which will then be suggested to users, based on their inputted preferences within our web app. We also had the option of creating a simple UI.
 
-## Database Components:
+🎛️ ## Database Components:
 
 - Model name
 - Shoe size 
@@ -11,7 +11,7 @@ In this project, we will be creating a Django web application that interacts wit
 - Color
 - Price (constant, in €)
 
-## System requirements:
+🛠️ ## System requirements:
 
 ### Python 3.8
 
@@ -41,7 +41,7 @@ pip install flask-cors
 
 
 
-## Timeline
+⏱️ ## Timeline
 
 1. Django Web Application: Where you create the project, configure the settings & create the Django models (w/foreign keys for relational data)
 2. MySQL Database Integration: Where MySQL database is setup & connected with Django. Also where Django models -> MySQL tables (+ relationships)
