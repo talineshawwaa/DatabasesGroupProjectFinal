@@ -35,7 +35,7 @@ pip install beautifulsoup4
 
 pip install selenium
 
-pip install flak
+pip install flask
 
 pip install flask-cors
 
