@@ -79,6 +79,8 @@ After completing the previous steps, you are able to see your result within Comp
 
 ## 🔔 Potential Final Result -- UI
 
+This is our attempt at creating the user interface, with a simple design. We created an html, css and js file which worked together to create this component.
+
 ![image](https://github.com/talineshawwaa/DatabasesGroupProjectFinal/assets/132683425/96f287bb-194f-4f1a-aa56-b1a332419c00)
 
 
