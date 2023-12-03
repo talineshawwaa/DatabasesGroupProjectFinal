@@ -1,6 +1,6 @@
 # DatabasesGroupProjectFinal -- Sneakers
 
-💡 ## Aim of our Project SNEAKERS DATABASE
+## 💡 Aim of our Project SNEAKERS DATABASE
 In this project, we will be creating a Django web application that interacts with both MySQL and MongoDB databases. Our project involves setting up Django models, integrating with MySQL to retrieve relational data, connecting to MongoDB for NoSQL data, and implementing a web scraping component to populate our database with external data. Our database will consist of a multitude of sneakers, of various attributes (colour, model, prices, etc...), which will then be suggested to users, based on their inputted preferences within our web app. We also had the option of creating a simple UI.
 
 ## 🎛️ Database Components:
@@ -51,38 +51,35 @@ pip install flask-cors
 6. Documentation: Where you explain the project/requirements, & the scope of each Django model
 
 
-
-
-
-
-
-## How to run the code
+## 🏃‍♀️ How to run the code
 When running the code, make sure you have all the python packages installed and ready before running, the packages are all mentioned above in the "Python Packages to Install" section. It is also important to make sure that you are running the code on python3! Changing the file path is also cruical, to the name of the desktop you are using with your specified username and password. Once all is done, a JSON file should be correctly produced with all the sneakers. 
 
 
 
-## Migration & Dependencies
+## 🚀 Migration & Dependencies
 
 python manage.py migrate
 
-## Web Scraping
+## ⛓️ Web Scraping
 
 To retrieve sufficient, relevant and updated data, we opted with the site Nike.es. It provides a variety of sneakers and complete information pertaining to each. To complete the webscraping, we used BeautifulSoup & Selenium for both dynamic and non-dynamic data.
 
-## Acknowledgement & Sources
+## 📬 Acknowledgement & Sources
 [Nike España](https://nike.es) provided a reliable data source for our web scraping component
 
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) made web scraping easier with Python, BeautifulSoup is used for non-dynamic data
 
 [Selenium](https://selenium-python.readthedocs.io/) used for dynamic data, such as sneaker sizes
 
-## Potential Final Result
+## ✅ Potential Final Result
 
 After completing the previous steps, you are able to see your result within Compass. This is our result below!
 
 ![Image 3-12-23 at 19 30](https://github.com/talineshawwaa/DatabasesGroupProjectFinal/assets/132683425/186a4b26-e90f-44b0-b9aa-fa921436574d)
 
-## Potential Final Result -- UI
+## 🔔 Potential Final Result -- UI
+
+![image](https://github.com/talineshawwaa/DatabasesGroupProjectFinal/assets/132683425/96f287bb-194f-4f1a-aa56-b1a332419c00)
 
 
 
