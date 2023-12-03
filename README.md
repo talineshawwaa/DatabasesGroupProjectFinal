@@ -68,6 +68,9 @@ To retrieve sufficient, relevant and updated data, we opted with the site Nike.e
 
 ## Acknowledgement & Sources
 [Nike España](https://nike.es) provided a reliable data source for our web scraping component
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) made web scraping easier with Python
+
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) made web scraping easier with Python, BeautifulSoup is used for non-dynamic data
+
+[Selenium](https://selenium-python.readthedocs.io/) used for dynamic data, such as sneaker sizes
 
 
