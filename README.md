@@ -5,10 +5,10 @@ In this project, we will be creating a Django web application that interacts wit
 
 ## Database Components:
 
-- Brand/Model name
-- Shoe size (male vs female)
+- Model name
+- Shoe size
 - Style
-- Color(s)
+- Color
 - Price (constant, in €)
 
 ## System requirements:
@@ -19,7 +19,7 @@ It is highly recommended to create a new directory environment based on Python 3
 
 ### TablePlus & SQL (ALL THE different databases we have like how we created wisam, everylittle thing) 
 
-### Python Packages to Install (on activated conda environment) -- Prior Installations
+### Python Packages to Install (on activated conda environment) -- Prior Installations (*pip3 depending on your environment)
 
 pip install Django
 
@@ -32,6 +32,14 @@ pip install MongoDB driver for Django (djongo)
 pip install djongo
 
 pip install beautifulsoup4
+
+pip install selenium
+
+pip install flak
+
+pip install flask-cors
+
+
 
 ## Timeline
 
